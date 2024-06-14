@@ -1,0 +1,41 @@
+SAP Business AI Innovations and Collaborations with Partners including Google Cloud, Meta, Microsoft, Mistral AI and NVIDIA Ignite Ingenuity
+
+ORLANDO — At its annual SAP Sapphire conference, SAP unveiled generative AI innovations and partnerships that showcase how the company is taking business to the next level in the era of AI.
+
+Taking Business to the Next Level in the Era of AI
+Read the news guide
+By infusing Business AI across an enterprise cloud portfolio that powers the world’s most mission-critical processes and partnering with companies pushing the edge of what’s possible with AI, SAP is igniting a new wave of insight and ingenuity in global business.
+
+“The Business AI innovations we’re announcing at SAP Sapphire in 2024 will redefine the way businesses run,” says Christian Klein, CEO and member of the Executive Board of SAP SE. “Today’s AI announcements and partnerships build on our commitment to deliver revolutionary technology that drives real-world results, helping customers unleash the agility and ingenuity they need to succeed in today’s fast-moving business landscape.”
+
+AI That Means Business
+As SAP embeds Business AI across its enterprise solutions, it puts rich insights at users’ fingertips, empowering them to deliver better outcomes and elevate the creative problem-solving humans do best. Examples include AI-generated reports in SAP SuccessFactors solutions that give people managers responsibly sourced insights for compensation-related discussions as well as forecasting capabilities in SAP Sales Cloud solutions that predict combinations of salespeople and products most likely to drive sales. Meanwhile, the SAP Business Technology Platform is adding large language models from Amazon Web Services, Meta and Mistral AI to its generative AI hub. This capability in the SAP AI Core infrastructure makes it easier to build generative AI use cases for SAP applications.
+
+SAP’s generative AI copilot Joule, which quickly sorts and contextualizes data from multiple systems to advance automation and improve decision-making, is expanding throughout the company’s solution portfolio. Joule launched in SAP SuccessFactors solutions last fall and is now embedded into SAP S/4HANA Cloud solutions and others including SAP Build and SAP Integration Suite. Further expansion by year-end will include SAP Ariba and SAP Analytics Cloud solutions. At Sapphire, SAP also announced plans to further broaden Joule’s scope by integrating it with Microsoft Copilot to surface even richer insights. This deep, bi-directional integration gives users a unified experience built right into the flow of work, enabling seamless access to information from interactions with business applications in SAP and Microsoft 365.
+
+Reflecting Business AI’s increasing importance, SAP is redoubling its commitment to the principles of relevant, reliable, and responsible AI it pioneered. At Sapphire, SAP is adopting the 10 guiding principles of the UNESCO Recommendation on the Ethics of Artificial Intelligence, which aim to ensure that AI technologies are developed and used in ways that respect human rights, promote fairness and contribute to sustainable development.
+
+Partnerships That Scale Innovation
+SAP is partnering with best-in-class technology leaders to push the limits of what generative AI can do at an enterprise level. In addition to our expanded collaborations with AWS and Microsoft, partnerships with Google Cloud, Meta, Mistral AI and NVIDIA ensure SAP can harness the power of AI-ready technology to innovate at speed and deliver richer real-world results.
+
+Google Cloud
+
+SAP and Google Cloud are expanding their partnership, using Business AI to help enterprises better predict and mitigate supply-chain risks to minimize disruptions and maintain optimal inventory levels. The companies will integrate Joule and the SAP Integrated Business Planning for Supply Chain solution with Google Cloud’s Gemini models AI assistant and Google Cloud Cortex Framework’s data foundation.
+
+Meta
+
+SAP will leverage Meta Llama 3 to generate scripts that render highly customized analytics applications in SAP Analytics Cloud. Meta’s next-generation AI model excels at language nuances and contextual understanding, making it an ideal candidate for translating enterprise business requirements into tangible outcomes.
+
+Mistral AI
+
+SAP will also add new large language models from Mistral AI, a global company headquartered in Paris specializing in generative AI, to the generative AI hub capability in SAP AI Core.
+
+NVIDIA
+
+SAP and NVIDIA Corporation advance a cross-product partnership to embed cutting-edge technologies into enterprise-ready business applications:
+
+As SAP trains Joule to serve as an AI assistant for the RISE with SAP solution implementations, NVIDIA’s state-of-the-art AI models sift through SAP consulting assets to provide relevant and precise answers to implementation-related questions;
+As SAP embeds Joule in the ABAP Cloud model to generate ABAP code for SAP developers, NVIDIA’s accelerated infrastructure will run, scale, and manage SAP’s generative AI model for ABAP code generation;
+As SAP infuses generative AI into the SAP Intelligent Product Recommendation solution, NVIDIA Omniverse Cloud APIs enable the simulation of complex manufacturing products and configurations as industrial digital twins.
+Cloud Technology That Drives Agility and Sustainability
+Business success in the era of AI means being in the cloud. SAP is making the move easier than ever with initiatives that help customers find partners with the expertise needed for complex SAP S/4HANA Cloud transformations. Further cloud innovations at SAP Sapphire include features that help the world’s organizations measure, manage and execute their sustainability strategies. SAP Sustainability Control Tower and SAP Sustainability Footprint Management solutions now track carbon footprints at scale and help businesses meet regulatory standards.
